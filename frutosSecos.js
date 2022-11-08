@@ -1,1 +1,1 @@
-const frutosSecos = ['Nuez', 'Avellana', 'Almendra']
+const frutosSecos = ['Nuez', 'Avellana', 'Almendra', 'Maní']
