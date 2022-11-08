@@ -1,0 +1,1 @@
+const carnes = ['Asado', 'Vacio', 'Paleta']
